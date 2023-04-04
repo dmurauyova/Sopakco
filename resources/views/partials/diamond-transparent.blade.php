@@ -1,0 +1,3 @@
+<div class="diamond rellax z-10 " data-rellax-speed="{{ $speed }}" data-rellax-zindex="1">
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="489.269" height="489.269" viewBox="0 0 489.269 489.269"><defs><style>.a{fill:none;stroke:#badaff;stroke-width:2px;}.b{clip-path:url(#a);}.c{fill:#badaff;}</style><clipPath id="a"><rect class="a" width="489.269" height="489.269" transform="translate(-4.895)"/></clipPath></defs><g class="b" transform="translate(4.895)"><path class="c" d="M-1-1H346.97V346.97H-1ZM344.97,1H1V344.97H344.97Z" transform="translate(236.64 489.272) rotate(-135)"/></g></svg>
+</div>
